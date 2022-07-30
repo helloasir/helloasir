@@ -8,8 +8,8 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/helloasir/" target="blank"> Linkedin </a>
-<a href="https://stackoverflow.com/users/10812318/helloasir" target="blank">Stackoverflow</a>
-<a href="https://www.instagram.com/helloasir" target="blank">Instagram</a>
-<a href="https://www.facebook.com/helloasir" target="blank">Facebook</a>
-<a href="https://www.twitter.com/ihelloasir" target="blank">Twitter</a>
+<a href="https://www.linkedin.com/in/helloasir/" target="blank"> Linkedin </a><br>
+<a href="https://stackoverflow.com/users/10812318/helloasir" target="blank">Stackoverflow</a><br>
+<a href="https://www.instagram.com/helloasir" target="blank">Instagram</a><br>
+<a href="https://www.facebook.com/helloasir" target="blank">Facebook</a><br>
+<a href="https://www.twitter.com/ihelloasir" target="blank">Twitter</a><br>
