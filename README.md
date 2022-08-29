@@ -13,3 +13,7 @@
 <a href="https://www.instagram.com/helloasir" target="blank">Instagram</a><br>
 <a href="https://www.facebook.com/helloasir" target="blank">Facebook</a><br>
 <a href="https://www.twitter.com/ihelloasir" target="blank">Twitter</a><br>
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloasir&hide=javascript,css,scss,html&theme=tokyonight)
+
