@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=helloasir&style=flat-square)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=helloasir)]
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
