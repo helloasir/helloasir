@@ -2,8 +2,6 @@
 
 <p align="left"><img src="https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif" alt="Hello World" /></p>
 
-[![wakatime](https://wakatime.com/badge/user/85ff39f7-26ef-438a-b19f-759bc0a4660a.svg)](https://wakatime.com/@85ff39f7-26ef-438a-b19f-759bc0a4660a)
-
 ![](https://komarev.com/ghpvc/?username=helloasir&style=flat-square)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=helloasir&row=2&column=3)
